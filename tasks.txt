@@ -1,0 +1,4 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program, 10-10-2019, 2019-10-20, no
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10-Oct-2019, 2019-10-25, no
+louis, fixing this, for years, 2021-03-04, 2019-10-25, no
+louisness, still fixing this, for more years, 2021-03-04, 2019-10-25, no
